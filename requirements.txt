@@ -1,0 +1,6 @@
+# Personalized Travel Itinerary Planner
+# Core Dependencies
+streamlit>=1.35.0,<=1.45.0
+pandas>=2.0.0,<=2.3.0
+plotly>=5.20.0,<=6.1.0
+pytest>=8.0.0,<=8.5.0
