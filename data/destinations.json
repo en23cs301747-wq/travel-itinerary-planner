@@ -1,0 +1,1019 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "description": "Bundled illustrative destination catalog for Personalized Travel Itinerary Planner.",
+    "disclaimer": "All attractions, indicative costs, visit durations, and meal recommendations are illustrative guidelines. Operating hours, seasonal availability, and ticket prices must be verified before travel."
+  },
+  "destinations": [
+    {
+      "id": "jaipur",
+      "name": "Jaipur",
+      "state": "Rajasthan",
+      "tagline": "The Historic Pink City of Forts and Palaces",
+      "description": "Known for its royal palaces, imposing hill forts, vibrant bazaars, and rich Rajputana architecture in terracota-pink stone.",
+      "styles": ["Cultural", "Historical Landmarks", "Family", "Budget", "Luxury"],
+      "climate_summary": "Warm semi-arid climate; best visited between October and March.",
+      "suggested_duration_days": 3,
+      "attractions": [
+        {
+          "id": "amber-fort",
+          "name": "Amber Fort and Palace",
+          "category": "Historical Landmarks",
+          "description": "Majestic hilltop fortress overlooking Maota Lake with grand courtyards and intricate Sheesh Mahal mirror work.",
+          "duration_hours": 3.0,
+          "indicative_cost_inr": 200,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Climb early in the morning to beat the heat; composite tourist ticket available."
+        },
+        {
+          "id": "hawa-mahal",
+          "name": "Hawa Mahal (Palace of Winds)",
+          "category": "Historical Landmarks",
+          "description": "Five-storey honeycomb pink-sandstone facade with 953 jharokhas built for royal women to observe street processions.",
+          "duration_hours": 1.5,
+          "indicative_cost_inr": 100,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Best facade photography from the rooftop cafes directly opposite."
+        },
+        {
+          "id": "city-palace-jaipur",
+          "name": "City Palace & Museum",
+          "category": "Museums",
+          "description": "Royal residence blending Rajput and Mughal architecture, housing royal costumes, weaponry, and manuscripts.",
+          "duration_hours": 2.5,
+          "indicative_cost_inr": 300,
+          "best_time_of_day": "Afternoon",
+          "practical_tips": "Audio guides provide deep historical context on the Kachwaha dynasty."
+        },
+        {
+          "id": "jantar-mantar-jaipur",
+          "name": "Jantar Mantar Astronomical Observatory",
+          "category": "Sightseeing",
+          "description": "UNESCO World Heritage site featuring 19 monumental stone architectural instruments built by Maharaja Sawai Jai Singh II.",
+          "duration_hours": 1.5,
+          "indicative_cost_inr": 200,
+          "best_time_of_day": "Afternoon",
+          "practical_tips": "Hire an authorized guide or use the audio guide to comprehend the sundial geometry."
+        },
+        {
+          "id": "nahargarh-fort",
+          "name": "Nahargarh Fort Sunset Viewpoint",
+          "category": "Nature",
+          "description": "Ridgetop fortress along the Aravalli hills delivering panoramic sunset views of the entire illuminated Pink City.",
+          "duration_hours": 2.0,
+          "indicative_cost_inr": 150,
+          "best_time_of_day": "Evening",
+          "practical_tips": "Book cabs with return wait time included; mountain road has limited night transit."
+        },
+        {
+          "id": "johari-bazaar",
+          "name": "Johari Bazaar & Bapu Bazaar Walk",
+          "category": "Shopping",
+          "description": "Historic lanes famous for traditional gemstones, handmade bandhani textiles, lac bangles, and blue pottery.",
+          "duration_hours": 2.0,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Evening",
+          "practical_tips": "Polite bargaining is customary; look for authentic handicrafts board certifications."
+        },
+        {
+          "id": "chokhi-dhani",
+          "name": "Chokhi Dhani Cultural Village",
+          "category": "Food",
+          "description": "Immersive cultural resort with traditional Rajasthani folk dances, puppet shows, camel rides, and thali dining.",
+          "duration_hours": 3.5,
+          "indicative_cost_inr": 900,
+          "best_time_of_day": "Evening",
+          "practical_tips": "Located on Tonk Road; plan arrival by 6:30 PM for all live stage performances."
+        },
+        {
+          "id": "jal-mahal",
+          "name": "Jal Mahal Promenade & Photography",
+          "category": "Sightseeing",
+          "description": "Serene 18th-century submerged palace floating in Man Sagar Lake against the backdrop of the rugged Aravalli range.",
+          "duration_hours": 1.0,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Interior entry restricted; promenade viewing is picturesque during early sunrise."
+        }
+      ],
+      "meals": {
+        "breakfast": [
+          {"name": "Pyaaz Kachori & Jalebi at Rawat Mishthan Bhandar", "diet": "Vegetarian", "style": "Street Food & Local Specialty"},
+          {"name": "Masala Poha & Kulhad Chai", "diet": "Vegetarian", "style": "Comfort Breakfast"},
+          {"name": "Continental Fruit Platter & Fresh Mint Parathas", "diet": "Vegan", "style": "Hotel Spread"}
+        ],
+        "lunch": [
+          {"name": "Authentic Rajasthani Dal Baati Churma Thali", "diet": "Vegetarian", "style": "Heritage Thali"},
+          {"name": "Ker Sangri, Bajre ki Roti, & Gatte ki Sabzi", "diet": "Vegan", "style": "Traditional Rajasthani"},
+          {"name": "Laal Maas with Roomali Roti (Non-Veg Heritage Dining)", "diet": "No Preference", "style": "Royal Rajasthani Cuisine"}
+        ],
+        "dinner": [
+          {"name": "Grand Royal Thali at Traditional Dining Hall", "diet": "Vegetarian", "style": "Traditional Thali"},
+          {"name": "Rooftop Dining overlooking Illuminated Hawa Mahal", "diet": "No Preference", "style": "Scenic Multi-cuisine"},
+          {"name": "Tandoori Vegetable Platter & Yellow Dal Tadka", "diet": "Vegan", "style": "Casual North Indian"}
+        ]
+      },
+      "transport_tips": "Auto-rickshaws and app-based cabs (Uber/Ola) are widely available. An E-rickshaw is ideal for navigating the walled old city.",
+      "notes": "Modest clothing recommended when visiting temples and active shrines. Keep footwear easy to slip off."
+    },
+    {
+      "id": "udaipur",
+      "name": "Udaipur",
+      "state": "Rajasthan",
+      "tagline": "The Romantic Venice of the East and City of Lakes",
+      "description": "Famed for tranquil artificial lakes, marble palaces, ghats, luxury havelis, and stunning Aravalli mountain backdrops.",
+      "styles": ["Relaxation", "Cultural", "Luxury", "Family"],
+      "climate_summary": "Pleasant winters and moderate monsoons; peak season October through March.",
+      "suggested_duration_days": 3,
+      "attractions": [
+        {
+          "id": "city-palace-udaipur",
+          "name": "City Palace Complex & Museum",
+          "category": "Historical Landmarks",
+          "description": "Vast palatial complex overlooking Lake Pichola with ornate mirror galleries, peacocks mosaics, and royal courtyards.",
+          "duration_hours": 3.0,
+          "indicative_cost_inr": 350,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Entry tickets separate for museum and boat rides; wear walking shoes."
+        },
+        {
+          "id": "lake-pichola-boat",
+          "name": "Lake Pichola Sunset Boat Cruise",
+          "category": "Sightseeing",
+          "description": "Scenic boat journey passing the Lake Palace (Taj Lake Palace) and stopping at Jag Mandir island palace.",
+          "duration_hours": 1.5,
+          "indicative_cost_inr": 500,
+          "best_time_of_day": "Evening",
+          "practical_tips": "Sunset slots sell out early; book on arrival at Rameshwar Ghat."
+        },
+        {
+          "id": "saheliyon-ki-bari",
+          "name": "Saheliyon-ki-Bari (Courtyard of Maidens)",
+          "category": "Nature",
+          "description": "Historic royal gardens featuring marble fountains, lotus pools, rose beds, and lush shady pavilions.",
+          "duration_hours": 1.5,
+          "indicative_cost_inr": 100,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Fountains operate through natural gravity pressure from Fateh Sagar Lake."
+        },
+        {
+          "id": "bagore-ki-haveli",
+          "name": "Bagore Ki Haveli & Dharohar Dance Show",
+          "category": "Cultural",
+          "description": "18th-century waterfront mansion hosting renowned evening Rajasthani folk dance, puppet theater, and fire stunts.",
+          "duration_hours": 2.0,
+          "indicative_cost_inr": 150,
+          "best_time_of_day": "Evening",
+          "practical_tips": "Show starts at 7:00 PM; queue for ticket counter around 5:45 PM."
+        },
+        {
+          "id": "fateh-sagar-lake",
+          "name": "Fateh Sagar Lake Walk & Nehru Garden",
+          "category": "Relaxation",
+          "description": "Pleasant lakeside promenade with cafes, boat rides, and Nehru Park on an island in the lake center.",
+          "duration_hours": 2.0,
+          "indicative_cost_inr": 120,
+          "best_time_of_day": "Afternoon",
+          "practical_tips": "Great spot for cold coffee and street chaat along the Marine Drive of Udaipur."
+        },
+        {
+          "id": "sajjangarh-monsoon-palace",
+          "name": "Sajjangarh Monsoon Palace",
+          "category": "Sightseeing",
+          "description": "High hilltop fort offering dramatic vistas of the lake basin and surrounding wildlife sanctuary.",
+          "duration_hours": 2.5,
+          "indicative_cost_inr": 200,
+          "best_time_of_day": "Afternoon",
+          "practical_tips": "Forest department shuttle vans operate from the hill base."
+        },
+        {
+          "id": "hathi-pol-market",
+          "name": "Hathi Pol Art & Handicrafts Market",
+          "category": "Shopping",
+          "description": "Bustling market renowned for traditional miniature Pichwai paintings, camel leather mojris, and silver jewellery.",
+          "duration_hours": 2.0,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Evening",
+          "practical_tips": "Meet local master artisans directly in lanes behind the main gate."
+        }
+      ],
+      "meals": {
+        "breakfast": [
+          {"name": "Poha with Sev, Jalebi, & Masala Tea at Sukhadia Circle", "diet": "Vegetarian", "style": "Local Morning Snack"},
+          {"name": "Fresh Fruit Bowl, Sprouts & Vegan Chai", "diet": "Vegan", "style": "Healthy Start"},
+          {"name": "Classic Continental & Masala Omelette", "diet": "No Preference", "style": "Cafe Breakfast"}
+        ],
+        "lunch": [
+          {"name": "Mewari Gatte ka Saag with Bajra Rotla and Chutney", "diet": "Vegetarian", "style": "Mewari Regional"},
+          {"name": "Dal Tadka, Steamed Rice, & Baingan Bharta", "diet": "Vegan", "style": "Home-style Indian"},
+          {"name": "Lakeside Fish Curry & Rice / Safed Maas", "diet": "No Preference", "style": "Local Non-Veg"}
+        ],
+        "dinner": [
+          {"name": "Romantic Rooftop Candlelight Dinner overlooking Lake Pichola", "diet": "Vegetarian", "style": "Lakeside Fine Dining"},
+          {"name": "Wood-fired Flatbreads, Hummus & Vegetable Curries", "diet": "Vegan", "style": "Boutique Cafe"},
+          {"name": "Mughlai Kebab Platter & Biryani at Ambrai Ghat", "diet": "No Preference", "style": "Heritage Waterfront"}
+        ]
+      },
+      "transport_tips": "The old city roads are narrow; walking and two-wheelers or autorickshaws are vastly better than four-wheelers.",
+      "notes": "Always respect photography rules inside royal museum enclosures."
+    },
+    {
+      "id": "goa",
+      "name": "Goa",
+      "state": "Goa",
+      "tagline": "Sun-kissed Beaches, Portuguese Heritage, and Coastal Vibes",
+      "description": "India's premier coastal escape combining golden sand shores, UNESCO colonial churches, spice farms, and vibrant seafood culture.",
+      "styles": ["Relaxation", "Adventure", "Family", "Budget", "Luxury"],
+      "climate_summary": "Tropical maritime; warm and sunny from November to April, lush monsoon from June to September.",
+      "suggested_duration_days": 4,
+      "attractions": [
+        {
+          "id": "fort-aguada",
+          "name": "Fort Aguada & Historic Lighthouse",
+          "category": "Historical Landmarks",
+          "description": "Well-preserved 17th-century Portuguese fortress overlooking Sinquerim beach and the vast Arabian Sea.",
+          "duration_hours": 2.0,
+          "indicative_cost_inr": 50,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Lower fort and upper fort lighthouse area have separate entry gates."
+        },
+        {
+          "id": "basilica-bom-jesus",
+          "name": "Basilica of Bom Jesus & Old Goa Churches",
+          "category": "Historical Landmarks",
+          "description": "UNESCO World Heritage Baroque landmark housing the mortal remains of St. Francis Xavier, alongside Se Cathedral.",
+          "duration_hours": 2.5,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Modest clothing covering shoulders and knees is mandatory for cathedral entry."
+        },
+        {
+          "id": "anjuna-beach",
+          "name": "Anjuna & Vagator Coastal Cliffs",
+          "category": "Relaxation",
+          "description": "Red laterite cliffs, swaying palm groves, beach shacks, and chilled-out music vibes beside the Arabian Sea.",
+          "duration_hours": 3.0,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Afternoon",
+          "practical_tips": "Wednesday flea market at Anjuna has artisanal jewelry, clothes, and souvenirs."
+        },
+        {
+          "id": "water-sports-calangute",
+          "name": "Water Sports at Calangute & Baga Beach",
+          "category": "Adventure",
+          "description": "Parasailing, jet skiing, banana boat rides, and bumper rides supervised by certified coastal operators.",
+          "duration_hours": 3.0,
+          "indicative_cost_inr": 1200,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Wear life jackets at all times; prices fluctuate with seasonal demand."
+        },
+        {
+          "id": "dudhsagar-falls",
+          "name": "Dudhsagar Waterfalls Day Excursion",
+          "category": "Adventure",
+          "description": "Four-tiered majestic 310m waterfall on Mandovi river reached via rugged forest jeep safari through Bhagwan Mahavir Sanctuary.",
+          "duration_hours": 5.0,
+          "indicative_cost_inr": 1000,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Book government registered jeep slots early; swimming requires mandatory life jacket."
+        },
+        {
+          "id": "fontainhas-panaji",
+          "name": "Fontainhas Latin Quarter Heritage Walk",
+          "category": "Cultural",
+          "description": "Charming colonial Portuguese quarter in Panaji with narrow pastel-colored streets, wooden balconies, and boutique art cafes.",
+          "duration_hours": 2.0,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Afternoon",
+          "practical_tips": "Early morning or late afternoon yields soft natural light for photography."
+        },
+        {
+          "id": "mandovi-cruise",
+          "name": "Sunset Mandovi River Cruise",
+          "category": "Sightseeing",
+          "description": "One-hour scenic river cruise featuring live Goan Dekhni and Fugdi folk dance performances and DJ music.",
+          "duration_hours": 1.5,
+          "indicative_cost_inr": 400,
+          "best_time_of_day": "Evening",
+          "practical_tips": "Cruises depart from Santa Monica Jetty in Panaji; reach 30 minutes before boarding."
+        }
+      ],
+      "meals": {
+        "breakfast": [
+          {"name": "Poi Bread with Mushroom Xacuti & Kokum Juice", "diet": "Vegetarian", "style": "Goan Village Breakfast"},
+          {"name": "Fresh Tropical Fruit Bowl & Coconut Milk Smoothie", "diet": "Vegan", "style": "Beachside Cafe"},
+          {"name": "Traditional Goan Chorizo Pao & Egg Omelette", "diet": "No Preference", "style": "Goan Portuguese"}
+        ],
+        "lunch": [
+          {"name": "Goan Vegetarian Thali with Vegetable Caldin & Sol Kadi", "diet": "Vegetarian", "style": "Coastal Thali"},
+          {"name": "Coconut Veggie Stew, Brown Rice & Fried Raw Banana", "diet": "Vegan", "style": "Plant-based Coastal"},
+          {"name": "Goan Fish Curry Thali (Kingfish/Pomfret) with Rice", "diet": "No Preference", "style": "Authentic Konkan Seafood"}
+        ],
+        "dinner": [
+          {"name": "Grilled Paneer Peri-Peri at Sunset Beach Shack", "diet": "Vegetarian", "style": "Beach Shack Dining"},
+          {"name": "Stir-fried Asian Vegetables, Rice Noodles, and Cashew Curry", "diet": "Vegan", "style": "Modern Coastal"},
+          {"name": "Prawn Balchao, Crab Xec Xec & Garlic Pao by the Sea", "diet": "No Preference", "style": "Seafood Special"}
+        ]
+      },
+      "transport_tips": "Self-drive scooters (scotty) and self-drive cars are the most flexible and economical way to travel around Goa.",
+      "notes": "Always swim only in designated safe zones monitored by lifeguards; strictly heed colored safety flags."
+    },
+    {
+      "id": "mumbai",
+      "name": "Mumbai",
+      "state": "Maharashtra",
+      "tagline": "The City of Dreams, Colonial Heritage, and Marine Vistas",
+      "description": "India's commercial and cinematic powerhouse, celebrated for Victorian gothic architecture, seaside promenades, and vibrant street life.",
+      "styles": ["Cultural", "Food", "Sightseeing", "Luxury", "Budget"],
+      "climate_summary": "Tropical wet and dry; cooler and dry between November and February.",
+      "suggested_duration_days": 3,
+      "attractions": [
+        {
+          "id": "gateway-of-india",
+          "name": "Gateway of India & Taj Mahal Palace Hotel",
+          "category": "Historical Landmarks",
+          "description": "Iconic 26m basalt archway on the waterfront erected to commemorate King George V, flanked by the historic Taj Mahal Palace.",
+          "duration_hours": 1.5,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Visit at sunrise to see fishing boats and avoid the bustling midday crowds."
+        },
+        {
+          "id": "elephanta-caves",
+          "name": "Elephanta Caves Island Excursion",
+          "category": "Historical Landmarks",
+          "description": "UNESCO World Heritage rock-cut cave temples dating to 5th-7th century CE featuring the monumental 3-headed Sadashiva sculpture.",
+          "duration_hours": 4.5,
+          "indicative_cost_inr": 450,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Ferries leave regularly from Gateway of India; caves are closed on Mondays."
+        },
+        {
+          "id": "chhatrapati-shivaji-terminus",
+          "name": "Chhatrapati Shivaji Maharaj Terminus (CST)",
+          "category": "Historical Landmarks",
+          "description": "Magnificent Victorian Gothic revival railway terminus and UNESCO site with ornate gargoyles, stained glass, and stone domes.",
+          "duration_hours": 1.5,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Evening",
+          "practical_tips": "Illuminated with colorful architectural floodlights every evening after 7 PM."
+        },
+        {
+          "id": "marine-drive",
+          "name": "Marine Drive (Queen's Necklace) Promenade",
+          "category": "Relaxation",
+          "description": "3.6-kilometer C-shaped boulevard along Back Bay offering refreshing sea breezes and skyline views.",
+          "duration_hours": 2.0,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Evening",
+          "practical_tips": "Ideal for an evening stroll followed by street food at Girgaon Chowpatty."
+        },
+        {
+          "id": "colaba-causeway",
+          "name": "Colaba Causeway Street Shopping & Cafes",
+          "category": "Shopping",
+          "description": "High-energy street market with antiques, junk jewelry, brass artifacts, bookstalls, and legendary heritage cafes.",
+          "duration_hours": 2.5,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Afternoon",
+          "practical_tips": "Stop by Leopold Cafe or Cafe Mondegar for heritage ambiance."
+        },
+        {
+          "id": "csmvs-museum",
+          "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+          "category": "Museums",
+          "description": "Leading arts and natural history museum housed in an Indo-Saracenic mansion set in manicured palm gardens.",
+          "duration_hours": 2.5,
+          "indicative_cost_inr": 150,
+          "best_time_of_day": "Afternoon",
+          "practical_tips": "Extensive miniature painting, numismatic, and archaeological galleries."
+        },
+        {
+          "id": "bandra-sea-link",
+          "name": "Bandra Fort & Bandra-Worli Sea Link View",
+          "category": "Sightseeing",
+          "description": "Remnants of Castella de Aguada offering scenic vantage points of the magnificent cable-stayed bridge and Arabian waves.",
+          "duration_hours": 2.0,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Evening",
+          "practical_tips": "Great sunset spot; combines nicely with walking along Carter Road or Bandstand."
+        }
+      ],
+      "meals": {
+        "breakfast": [
+          {"name": "Bun Maska & Irani Chai at B. Merwan / Yazdani Bakery", "diet": "Vegetarian", "style": "Parsi/Irani Heritage"},
+          {"name": "Mumbai Kanda Poha, Upma, & Filter Coffee", "diet": "Vegan", "style": "Street Corner Classic"},
+          {"name": "Akuri on Toast & Kheema Pav at Leopold Cafe", "diet": "No Preference", "style": "Legendary Cafe"}
+        ],
+        "lunch": [
+          {"name": "Traditional Gujarati / Rajasthani Thali in Kalbadevi", "diet": "Vegetarian", "style": "Heritage Thali"},
+          {"name": "Pav Bhaji (vegan oil/margarine option) & Bhel Puri", "diet": "Vegan", "style": "Chowpatty Street Food"},
+          {"name": "Bombil Fry, Surmai Fish Curry & Neer Dosa at Mahesh Lunch Home", "diet": "No Preference", "style": "Coastal Malvani/Mangalorean"}
+        ],
+        "dinner": [
+          {"name": "South Mumbai Street Food Crawl: Sev Puri, Pani Puri & Dosa", "diet": "Vegetarian", "style": "Chaat Trail"},
+          {"name": "Dal Khichdi with Papad & Roasted Aloo Jeera", "diet": "Vegan", "style": "Comfort Dining"},
+          {"name": "Continental & Seafood Grill at Waterfront Bandra Cafe", "diet": "No Preference", "style": "Modern Cosmopolitan"}
+        ]
+      },
+      "transport_tips": "Mumbai's local train network, modern Metro lines, and meter-based black-and-yellow Kaali-Peeli taxis make getting around easy.",
+      "notes": "Avoid peak rush hour local trains (8:30-10:30 AM and 5:30-8:00 PM) when traveling with family."
+    },
+    {
+      "id": "delhi",
+      "name": "Delhi",
+      "state": "National Capital Territory",
+      "tagline": "The Historic Capital of Empires and Modern Metropolis",
+      "description": "A magnificent collision of centuries-old Mughal bastions, Lutyens' colonial avenues, vibrant food bazaars, and modern urban culture.",
+      "styles": ["Cultural", "Historical Landmarks", "Food", "Family", "Shopping"],
+      "climate_summary": "Extreme continental climate; very pleasant from October to March.",
+      "suggested_duration_days": 3,
+      "attractions": [
+        {
+          "id": "qutub-minar",
+          "name": "Qutub Minar & Mehrauli Archaeological Complex",
+          "category": "Historical Landmarks",
+          "description": "73m soaring red sandstone minaret built in 1192, featuring intricate inscriptions and the mysterious rust-resistant Iron Pillar.",
+          "duration_hours": 2.5,
+          "indicative_cost_inr": 250,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Book online tickets on the ASI portal for expedited turnstile entry."
+        },
+        {
+          "id": "humayuns-tomb",
+          "name": "Humayun's Tomb & Sunder Nursery",
+          "category": "Historical Landmarks",
+          "description": "UNESCO World Heritage garden tomb that served as the architectural precursor to the Taj Mahal, set in restored Persian Charbagh.",
+          "duration_hours": 3.0,
+          "indicative_cost_inr": 250,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Combine with adjoining Sunder Nursery gardens for a peaceful nature walk."
+        },
+        {
+          "id": "red-fort",
+          "name": "Red Fort (Lal Qila)",
+          "category": "Historical Landmarks",
+          "description": "Historic seat of Mughal Emperor Shah Jahan with octagonal towers, Diwan-i-Aam, and marble Diwan-i-Khas.",
+          "duration_hours": 2.5,
+          "indicative_cost_inr": 250,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Closed on Mondays; comprehensive museum complex located inside barracks."
+        },
+        {
+          "id": "chandni-chowk",
+          "name": "Chandni Chowk Old Delhi Rickshaw & Food Walk",
+          "category": "Food",
+          "description": "Bustling 17th-century market alleyways: Paranthe Wali Gali, spice scent of Khari Baoli, and Jama Masjid views.",
+          "duration_hours": 3.0,
+          "indicative_cost_inr": 150,
+          "best_time_of_day": "Afternoon",
+          "practical_tips": "Opt for cycle-rickshaws to navigate narrow galis comfortably."
+        },
+        {
+          "id": "india-gate",
+          "name": "India Gate & Kartavya Path Walk",
+          "category": "Sightseeing",
+          "description": "42m triumphal war memorial archway commemorating soldiers, with broad tree-lined avenues and the National War Memorial.",
+          "duration_hours": 1.5,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Evening",
+          "practical_tips": "Atmosphere comes alive in the evening with ice-cream vendors and illuminated fountains."
+        },
+        {
+          "id": "lotus-temple",
+          "name": "Lotus Temple (Bahá'í House of Worship)",
+          "category": "Cultural",
+          "description": "Spectacular pure white marble 27-petal lotus structure welcoming people of all faiths for silent meditation.",
+          "duration_hours": 1.5,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Afternoon",
+          "practical_tips": "Complete silence is observed inside the prayer hall; closed on Mondays."
+        },
+        {
+          "id": "national-museum-delhi",
+          "name": "National Museum at Janpath",
+          "category": "Museums",
+          "description": "Premier repository of Indian antiquities spanning Harappan civilization relics, Buddhist art, and Mughal miniatures.",
+          "duration_hours": 3.0,
+          "indicative_cost_inr": 100,
+          "best_time_of_day": "Afternoon",
+          "practical_tips": "The Harappan gallery features the famous Dancing Girl bronze sculpture."
+        },
+        {
+          "id": "dilli-haat",
+          "name": "Dilli Haat INA Crafts & Food Stalls",
+          "category": "Shopping",
+          "description": "Open-air thatched craft bazaar showcasing authentic regional artisans and cuisine counters from every Indian state.",
+          "duration_hours": 2.0,
+          "indicative_cost_inr": 50,
+          "best_time_of_day": "Evening",
+          "practical_tips": "Fixed reasonable ticket entry keeps crowds orderly; excellent regional food stalls."
+        }
+      ],
+      "meals": {
+        "breakfast": [
+          {"name": "Chole Bhature with Pickled Carrots at Sita Ram Diwan Chand", "diet": "Vegetarian", "style": "Punjabi Classic"},
+          {"name": "Bedmi Puri & Spicy Aloo Sabzi in Chandni Chowk", "diet": "Vegan", "style": "Old Delhi Traditional"},
+          {"name": "Egg Bhurji & Butter Toast at Pandara Road", "diet": "No Preference", "style": "Comfort Breakfast"}
+        ],
+        "lunch": [
+          {"name": "Kadhi Pakora, Jeera Rice, & Sarson Ka Saag with Makki Roti", "diet": "Vegetarian", "style": "North Indian Comfort"},
+          {"name": "Rajma Chawal, Mint Chutney, & Onion Salad", "diet": "Vegan", "style": "Delhi Staples"},
+          {"name": "Mughlai Butter Chicken & Mutton Seekh Kebab at Karim's", "diet": "No Preference", "style": "Heritage Mughlai"}
+        ],
+        "dinner": [
+          {"name": "Dal Makhani, Shahi Paneer, & Garlic Naan at Gulati / Pandara Road", "diet": "Vegetarian", "style": "North Indian Feast"},
+          {"name": "Tandoori Soya Chaap, Roti, and Dal Tadka", "diet": "Vegan", "style": "Delhi Street Specialty"},
+          {"name": "Chicken Tikka Platter & Biryani at Khan Market Eatery", "diet": "No Preference", "style": "Modern Bistro"}
+        ]
+      },
+      "transport_tips": "Delhi Metro is world-class, fully air-conditioned, fast, and covers nearly all tourist attractions directly.",
+      "notes": "Always carry a scarf/shawl for covering head in religious sites (Gurudwaras, Mosques, and Temples)."
+    },
+    {
+      "id": "varanasi",
+      "name": "Varanasi",
+      "state": "Uttar Pradesh",
+      "tagline": "The Ancient Spiritual Heart on the Sacred River Ganga",
+      "description": "One of the world's oldest continuously inhabited cities, renowned for ancient ghats, evocative rituals, narrow gallis, and silk weaving.",
+      "styles": ["Cultural", "Historical Landmarks", "Relaxation", "Budget"],
+      "climate_summary": "Hot summers; cool and peaceful spiritual atmosphere from October to March.",
+      "suggested_duration_days": 2,
+      "attractions": [
+        {
+          "id": "dashashwamedh-aarti",
+          "name": "Dashashwamedh Ghat Evening Ganga Aarti",
+          "category": "Cultural",
+          "description": "Mesmerizing devotional evening ritual with multi-tiered brass oil lamps, rhythmic chants, conch shells, and cymbals.",
+          "duration_hours": 2.0,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Evening",
+          "practical_tips": "Rent a shared or private boat by 5:30 PM for the most spectacular riverfront view."
+        },
+        {
+          "id": "ganga-sunrise-boat",
+          "name": "Sunrise Rowing Boat Ride along River Ghats",
+          "category": "Sightseeing",
+          "description": "Dawn boat glide from Assi Ghat to Manikarnika Ghat witnessing early morning prayers, ablutions, and centuries-old havelis.",
+          "duration_hours": 2.0,
+          "indicative_cost_inr": 300,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Board by 5:15-5:45 AM depending on season; negotiate price beforehand."
+        },
+        {
+          "id": "kashi-vishwanath",
+          "name": "Kashi Vishwanath Temple & Ganga Corridor",
+          "category": "Historical Landmarks",
+          "description": "Golden spire temple dedicated to Lord Shiva, newly connected to the Ganga through a majestic pedestrian corridor.",
+          "duration_hours": 2.5,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Mobile phones and leather items are strictly prohibited inside; deposit at official lockers."
+        },
+        {
+          "id": "sarnath",
+          "name": "Sarnath Buddhist Archaeological Site & Dhamek Stupa",
+          "category": "Historical Landmarks",
+          "description": "Where Gautama Buddha gave his first sermon; features the massive 43m Dhamek Stupa, Ashoka pillar base, and archaeological museum.",
+          "duration_hours": 3.0,
+          "indicative_cost_inr": 150,
+          "best_time_of_day": "Afternoon",
+          "practical_tips": "Located 10 km north of Varanasi; allocate 45 minutes of travel time."
+        },
+        {
+          "id": "assi-ghat-walk",
+          "name": "Assi Ghat Morning Yoga & Music Walk",
+          "category": "Relaxation",
+          "description": "Southernmost ghat famous for morning Subah-e-Banaras music performances, open yoga sessions, and bohemian cafes.",
+          "duration_hours": 2.0,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Enjoy a wood-fired apple pie or herbal tea at nearby bakeries."
+        },
+        {
+          "id": "banarasi-silk-weaving",
+          "name": "Traditional Banarasi Silk Weaving Workshop",
+          "category": "Shopping",
+          "description": "Witness master weavers operating manual Jacquard looms weaving intricate gold zari Banarasi sarees and brocades.",
+          "duration_hours": 1.5,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Afternoon",
+          "practical_tips": "Visit government-run weavers' cooperatives to guarantee handloom authenticity."
+        }
+      ],
+      "meals": {
+        "breakfast": [
+          {"name": "Banarasi Kachori Sabzi with Jalebi at Ram Bhandar", "diet": "Vegetarian", "style": "Ghat Morning Specialty"},
+          {"name": "Poha with Chura Matar & Lemon Mint Tea", "diet": "Vegan", "style": "Winter Regional Snack"},
+          {"name": "Masala Omelette & Toast at Pizzeria Vaatika Cafe Assi", "diet": "No Preference", "style": "Ghatside Cafe"}
+        ],
+        "lunch": [
+          {"name": "Satvik Banarasi Thali with Paneer, Dal, & Baati", "diet": "Vegetarian", "style": "Temple Style Dining"},
+          {"name": "Yellow Dal Tadka, Steamed Rice, Aloo Gobhi, and Phulka", "diet": "Vegan", "style": "Home-cooked Satvik"},
+          {"name": "Mughlai Biryani & Kebab at Nai Sarak Eatery", "diet": "No Preference", "style": "Old City Non-Veg"}
+        ],
+        "dinner": [
+          {"name": "Banarasi Tamatar Chaat & Blue Lassi at Bangali Tola", "diet": "Vegetarian", "style": "Iconic Street Food"},
+          {"name": "Vegetable Pulao with Roasted Papad and Salad", "diet": "Vegan", "style": "Simple Comfort"},
+          {"name": "Riverside Indian Dinner overlooking the Illuminated Ghats", "diet": "No Preference", "style": "Scenic Terrace"}
+        ]
+      },
+      "transport_tips": "Walking is the only feasible way inside the historic labyrinth of gallis (alleys). Use autorickshaws for distances along main avenues.",
+      "notes": "Be respectful of funeral pyres and mourners at Manikarnika and Harishchandra Ghats; photography is strictly forbidden there."
+    },
+    {
+      "id": "manali",
+      "name": "Manali",
+      "state": "Himachal Pradesh",
+      "tagline": "Himalayan Valley of Gods, Pine Forests, and Alpine Adventures",
+      "description": "High-altitude resort town tucked in the Beas river valley, renowned for pine forests, snow-clad peaks, and thrilling mountain sports.",
+      "styles": ["Adventure", "Nature", "Relaxation", "Family", "Budget"],
+      "climate_summary": "Alpine mountain climate; snow from December to February, pleasant summer from April to June.",
+      "suggested_duration_days": 4,
+      "attractions": [
+        {
+          "id": "solang-valley",
+          "name": "Solang Valley Adventure Arena",
+          "category": "Adventure",
+          "description": "Glacial valley hub for paragliding, zorbing, ATV rides, and winter skiing with stunning views of Pir Panjal peaks.",
+          "duration_hours": 4.5,
+          "indicative_cost_inr": 1500,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Book adventure activities directly with licensed operators at government-monitored counters."
+        },
+        {
+          "id": "atal-tunnel-sissu",
+          "name": "Atal Tunnel & Sissu Lahaul Valley Excursion",
+          "category": "Sightseeing",
+          "description": "Drive through the 9.02km engineering marvel tunnel into the stark high-altitude desert and freezing Sissu waterfall in Lahaul.",
+          "duration_hours": 5.0,
+          "indicative_cost_inr": 600,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Carry warm thermals and jackets; temperatures drop drastically past the North Portal."
+        },
+        {
+          "id": "hadimba-temple",
+          "name": "Hadimba Devi Temple & Dhungri Cedar Forest",
+          "category": "Historical Landmarks",
+          "description": "16th-century four-tiered pagoda-style wooden temple dedicated to Hadimba, surrounded by towering deodar forests.",
+          "duration_hours": 1.5,
+          "indicative_cost_inr": 50,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Quiet walks in the surrounding cedar forest are serene and great for photography."
+        },
+        {
+          "id": "jogini-waterfall",
+          "name": "Jogini Waterfall Pine Trail Trek",
+          "category": "Nature",
+          "description": "Scenic 3.5 km trail through apple orchards, small mountain streams, and pine woods leading to cascading mountain falls.",
+          "duration_hours": 3.0,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Afternoon",
+          "practical_tips": "Wear sturdy trekking shoes with good grip; carry a reusable water bottle."
+        },
+        {
+          "id": "old-manali-walk",
+          "name": "Old Manali Village & Bohemian Cafes",
+          "category": "Food",
+          "description": "Quaint village with wooden Himachali homes, live acoustic music cafes, bakeries, and hippie souvenir shops.",
+          "duration_hours": 2.5,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Evening",
+          "practical_tips": "Cross the Manalsu bridge on foot; parking for vehicles is virtually impossible inside."
+        },
+        {
+          "id": "vashisht-baths",
+          "name": "Vashisht Natural Sulphur Hot Springs",
+          "category": "Relaxation",
+          "description": "Natural thermal hot water springs with therapeutic minerals, housed in a traditional stone temple courtyard.",
+          "duration_hours": 1.5,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Separate bathing sections for men and women; carry your own towel."
+        },
+        {
+          "id": "mall-road-manali",
+          "name": "Mall Road & Tibetan Monasteries",
+          "category": "Shopping",
+          "description": "Pedestrian shopping spine of Manali with woollen shawls, Kullu caps, Tibetan prayer wheels, and handicrafts.",
+          "duration_hours": 2.0,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Evening",
+          "practical_tips": "Vehicles are barred on Mall Road; visit the Gadhan Thekchhokling Gompa nearby."
+        }
+      ],
+      "meals": {
+        "breakfast": [
+          {"name": "Siddu (Steamed Himachali Walnut Bread) with Ghee", "diet": "Vegetarian", "style": "Himachali Heritage"},
+          {"name": "Apple Porridge & Fresh Mint Ginger Tea", "diet": "Vegan", "style": "Mountain Healthy"},
+          {"name": "Shakshuka, Hash Browns & Fresh Brewed Coffee", "diet": "No Preference", "style": "Old Manali Cafe"}
+        ],
+        "lunch": [
+          {"name": "Himachali Dham (Madra, Mah ki Dal, Khatta) on Leaf Plate", "diet": "Vegetarian", "style": "Festive Feast"},
+          {"name": "Rajma Pahadi with Red Rice and Radish Chutney", "diet": "Vegan", "style": "Himalayan Village"},
+          {"name": "Pan-fried Fresh Himalayan Trout Fish with Fries", "diet": "No Preference", "style": "Mountain Catch"}
+        ],
+        "dinner": [
+          {"name": "Hot Vegetable Thukpa & Steamed Veg Momos", "diet": "Vegetarian", "style": "Tibetan Comfort"},
+          {"name": "Tofu & Vegetable Stir Fry with Tibetan Tingmo Bread", "diet": "Vegan", "style": "Himalayan Vegan"},
+          {"name": "Himachali Mutton Curry with Steamed Rice by Fireplace", "diet": "No Preference", "style": "Cozy Mountain Dining"}
+        ]
+      },
+      "transport_tips": "Hired local taxis (managed through Manali Union rates) are standard for Atal Tunnel and Solang Valley. Walking is best for Old Manali.",
+      "notes": "Check for Rohtang Pass permits in advance if planning to cross into high altitude beyond Atal Tunnel."
+    },
+    {
+      "id": "kochi",
+      "name": "Kochi",
+      "state": "Kerala",
+      "tagline": "The Queen of the Arabian Sea and Spice Coast Gateway",
+      "description": "Cosmopolitan coastal harbor where Portuguese, Dutch, British, and Arab maritime histories meet tranquil Kerala backwaters.",
+      "styles": ["Cultural", "Relaxation", "Food", "Family", "Historical Landmarks"],
+      "climate_summary": "Tropical humid climate; coolest and pleasant from November to February.",
+      "suggested_duration_days": 3,
+      "attractions": [
+        {
+          "id": "chinese-fishing-nets",
+          "name": "Fort Kochi Chinese Fishing Nets (Cheena Vala)",
+          "category": "Historical Landmarks",
+          "description": "Centuries-old cantilevered shoreline fishing contraptions introduced by Chinese traders in the court of Kublai Khan.",
+          "duration_hours": 1.5,
+          "indicative_cost_inr": 50,
+          "best_time_of_day": "Evening",
+          "practical_tips": "Local fishermen demonstrate the cantilever weights during sunset; tipping is standard."
+        },
+        {
+          "id": "mattancherry-palace",
+          "name": "Mattancherry Palace (Dutch Palace)",
+          "category": "Historical Landmarks",
+          "description": "Palace built by the Portuguese and gifted to the Raja of Kochi, celebrated for extraordinary Ramayana tempera murals.",
+          "duration_hours": 2.0,
+          "indicative_cost_inr": 50,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Closed on Fridays; photography strictly banned in mural chambers."
+        },
+        {
+          "id": "jew-town-synagogue",
+          "name": "Jew Town & Paradesi Synagogue",
+          "category": "Cultural",
+          "description": "Historic synagogue founded in 1568 with hand-painted Cantonese porcelain floor tiles and Belgian glass chandeliers, surrounded by spice and antique shops.",
+          "duration_hours": 2.5,
+          "indicative_cost_inr": 20,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Closed on Saturdays; fragrant spice warehouses line the cobblestone street."
+        },
+        {
+          "id": "kathakali-centre",
+          "name": "Kerala Kathakali Centre Evening Performance",
+          "category": "Cultural",
+          "description": "Classical Kerala dance drama featuring elaborate hand gestures (mudras), eye expressions, and live facial makeup application.",
+          "duration_hours": 2.5,
+          "indicative_cost_inr": 400,
+          "best_time_of_day": "Evening",
+          "practical_tips": "Arrive at 5:00 PM to watch the intricate makeup being painted before the 6:30 PM performance."
+        },
+        {
+          "id": "kochi-backwaters",
+          "name": "Kumbalangi Backwater Village Eco-Tour",
+          "category": "Nature",
+          "description": "Country boat or canoe cruise through mangrove wetlands, crab farms, and coconut palm fringed canals.",
+          "duration_hours": 4.0,
+          "indicative_cost_inr": 800,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Experience rural coir making, traditional fishing methods, and calm water navigation."
+        },
+        {
+          "id": "st-francis-church",
+          "name": "St. Francis Church & Santa Cruz Cathedral",
+          "category": "Historical Landmarks",
+          "description": "One of India's oldest European churches where explorer Vasco da Gama was initially buried in 1524.",
+          "duration_hours": 1.5,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Afternoon",
+          "practical_tips": "Located in central Fort Kochi close to boutique artsy cafes."
+        },
+        {
+          "id": "broadway-ernakulam",
+          "name": "Broadway & Marine Drive Kochi Walkway",
+          "category": "Shopping",
+          "description": "Vibrant wholesale marketplace in mainland Ernakulam leading to the waterfront Marine Drive promenade and rainbow bridge.",
+          "duration_hours": 2.0,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Evening",
+          "practical_tips": "Take the public water ferry from Fort Kochi jetty to Ernakulam for just ₹6 per person."
+        }
+      ],
+      "meals": {
+        "breakfast": [
+          {"name": "Appam with Vegetable Stew & Fresh Coconut Milk", "diet": "Vegetarian", "style": "Kerala Heritage Breakfast"},
+          {"name": "Steamed Puttu with Kadala Curry & Steamed Plantains", "diet": "Vegan", "style": "Traditional Kerala"},
+          {"name": "Egg Roast with Flaky Kerala Porotta", "diet": "No Preference", "style": "Local Teashop"}
+        ],
+        "lunch": [
+          {"name": "Traditional Kerala Sadhya Feast on Banana Leaf", "diet": "Vegetarian", "style": "Grand Feast"},
+          {"name": "Avial, Thoran, Kalan, Matta Rice & Lemon Pickle", "diet": "Vegan", "style": "Pure Plant Sadhya"},
+          {"name": "Karimeen Pollichathu (Pearl Spot in banana leaf) with Rice", "diet": "No Preference", "style": "Backwater Seafood Classic"}
+        ],
+        "dinner": [
+          {"name": "Dosa with Varieties of Chutney and Sambar at Pai Dosa", "diet": "Vegetarian", "style": "South Indian Quick Eats"},
+          {"name": "Coconut Rice with Vegetable Kurma & Roasted Pappadam", "diet": "Vegan", "style": "Homestyle Kerala"},
+          {"name": "Malabar Pepper Chicken Curry with Malabar Porotta", "diet": "No Preference", "style": "Coastal Spiced"}
+        ]
+      },
+      "transport_tips": "Kochi's public Water Metro and Ro-Ro ferry services provide an enjoyable and ultra-low-cost way to travel between islands.",
+      "notes": "Footwear must be removed when entering the Paradesi Synagogue and local temple compounds."
+    },
+    {
+      "id": "agra",
+      "name": "Agra",
+      "state": "Uttar Pradesh",
+      "tagline": "The City of the Taj Mahal and Mughal Grandeur",
+      "description": "Home to the world's most renowned monument to love, fortified imperial citadels, and timeless marble inlay craftsmanship.",
+      "styles": ["Cultural", "Historical Landmarks", "Family", "Budget", "Luxury"],
+      "climate_summary": "Subtropical; best experienced during cool winter months from October to March.",
+      "suggested_duration_days": 2,
+      "attractions": [
+        {
+          "id": "taj-mahal",
+          "name": "Taj Mahal Sunrise Visit",
+          "category": "Historical Landmarks",
+          "description": "UNESCO World Heritage ivory-white marble mausoleum built by Emperor Shah Jahan in memory of Mumtaz Mahal.",
+          "duration_hours": 3.0,
+          "indicative_cost_inr": 250,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Closed on Fridays. Enter through East or West gates before sunrise to beat huge daytime queues."
+        },
+        {
+          "id": "agra-fort",
+          "name": "Agra Fort (Lal Qila)",
+          "category": "Historical Landmarks",
+          "description": "Massive 16th-century red sandstone imperial fortress housing Jahangiri Mahal, Khas Mahal, and Sheesh Mahal.",
+          "duration_hours": 2.5,
+          "indicative_cost_inr": 200,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Stand at Musamman Burj balcony where Shah Jahan gazed at the Taj Mahal during his final years."
+        },
+        {
+          "id": "fatehpur-sikri",
+          "name": "Fatehpur Sikri Imperial City & Buland Darwaza",
+          "category": "Historical Landmarks",
+          "description": "Akbar's magnificent abandoned capital complex featuring Panch Mahal, Tomb of Salim Chishti, and the 54m Victory Gate.",
+          "duration_hours": 4.0,
+          "indicative_cost_inr": 300,
+          "best_time_of_day": "Afternoon",
+          "practical_tips": "Located 37 km from Agra; take an early afternoon taxi or express bus."
+        },
+        {
+          "id": "mehtab-bagh",
+          "name": "Mehtab Bagh (Moonlight Garden) Sunset View",
+          "category": "Nature",
+          "description": "Charbagh garden complex on the opposite bank of the Yamuna River, perfectly aligned with the Taj Mahal for sunset views.",
+          "duration_hours": 1.5,
+          "indicative_cost_inr": 100,
+          "best_time_of_day": "Evening",
+          "practical_tips": "Spectacular photography vantage without the crowds inside the main monument."
+        },
+        {
+          "id": "itmad-ud-daulah",
+          "name": "Tomb of I'timād-ud-Daulah (Baby Taj)",
+          "category": "Historical Landmarks",
+          "description": "Exquisite jewel-box marble tomb featuring the first extensive use of pietra dura (parchin kari) floral stone inlays.",
+          "duration_hours": 1.5,
+          "indicative_cost_inr": 100,
+          "best_time_of_day": "Afternoon",
+          "practical_tips": "Much quieter and more intimate than the larger imperial complexes."
+        },
+        {
+          "id": "sadar-bazaar-agra",
+          "name": "Sadar Bazaar & Marble Handicrafts Walk",
+          "category": "Shopping",
+          "description": "Popular commercial market known for genuine leather goods, Agra petha sweet stalls, and marble inlay souvenirs.",
+          "duration_hours": 2.0,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Evening",
+          "practical_tips": "Look for government handicraft emporiums to ensure genuine semiprecious stone inlays."
+        }
+      ],
+      "meals": {
+        "breakfast": [
+          {"name": "Bedai Puri with Spicy Aloo Jhol & Fresh Jalebi", "diet": "Vegetarian", "style": "Braj Regional Morning"},
+          {"name": "Stuffed Paratha with Mint Chutney & Tea", "diet": "Vegan", "style": "Street Corner Classic"},
+          {"name": "Eggs Florentine & Fresh Brewed Espresso", "diet": "No Preference", "style": "Hotel Spread"}
+        ],
+        "lunch": [
+          {"name": "Mughlai Shahi Paneer, Dal Makhani, & Butter Naan", "diet": "Vegetarian", "style": "Mughlai Vegetarian"},
+          {"name": "Baingan Bharta, Tandoori Roti, & Tadka Dal", "diet": "Vegan", "style": "Rustic North Indian"},
+          {"name": "Mughlai Mutton Korma & Fragrant Chicken Biryani", "diet": "No Preference", "style": "Imperial Mughal"}
+        ],
+        "dinner": [
+          {"name": "Rooftop Restaurant Dining with Taj Mahal Distant Silhouette", "diet": "Vegetarian", "style": "Scenic View Dining"},
+          {"name": "Vegetable Pulao, Dal Fry, and Roasted Papad", "diet": "Vegan", "style": "Comfort Fare"},
+          {"name": "Tandoori Chicken Platter & Seekh Kebabs at Pinch of Spice", "diet": "No Preference", "style": "Agra Fine Dining"}
+        ]
+      },
+      "transport_tips": "Battery-operated auto-rickshaws and golf carts operate in the green pollution-free buffer zone around the Taj Mahal.",
+      "notes": "Tripods, lighters, chewing gum, and large backpacks are prohibited inside the Taj Mahal complex."
+    },
+    {
+      "id": "bengaluru",
+      "name": "Bengaluru",
+      "state": "Karnataka",
+      "tagline": "The Garden City and Vibrant Silicon Hub of Innovation",
+      "description": "A dynamic blend of lush botanical gardens, historical palaces, craft microbreweries, and burgeoning tech cosmopolitanism.",
+      "styles": ["Sightseeing", "Nature", "Cultural", "Food", "Relaxation"],
+      "climate_summary": "Moderate tropical savanna; pleasant year-round climate with cool evenings.",
+      "suggested_duration_days": 3,
+      "attractions": [
+        {
+          "id": "lalbagh-botanical-garden",
+          "name": "Lalbagh Botanical Garden & Glass House",
+          "category": "Nature",
+          "description": "240-acre botanical haven commissioned by Hyder Ali, featuring over 1,800 plant species, centuries-old trees, and London-inspired Glass House.",
+          "duration_hours": 2.5,
+          "indicative_cost_inr": 50,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Early morning joggers enter free before 9:00 AM; visit Lalbagh rock formed 3,000 million years ago."
+        },
+        {
+          "id": "bangalore-palace",
+          "name": "Bangalore Palace & Royal Grounds",
+          "category": "Historical Landmarks",
+          "description": "19th-century Tudor-style royal palace built by the Wadiyar dynasty featuring fortified towers, wood carvings, and hunting trophies.",
+          "duration_hours": 2.5,
+          "indicative_cost_inr": 250,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Audio guide is included with ticket and narrated in multiple languages."
+        },
+        {
+          "id": "cubbon-park",
+          "name": "Cubbon Park & Vidhana Soudha Walk",
+          "category": "Nature",
+          "description": "Sprawling 300-acre green lung of the city adjacent to the monumental neo-Dravidian legislative seat of Vidhana Soudha.",
+          "duration_hours": 2.0,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Closed to motorized traffic on Sundays; ideal for cycling and photography."
+        },
+        {
+          "id": "tipu-sultan-palace",
+          "name": "Tipu Sultan's Summer Palace",
+          "category": "Historical Landmarks",
+          "description": "Two-storey teakwood palace adorned with carved pillars, arches, and balconies, representing Indo-Islamic architecture.",
+          "duration_hours": 1.5,
+          "indicative_cost_inr": 50,
+          "best_time_of_day": "Afternoon",
+          "practical_tips": "Combines easily with visiting the bustling nearby KR Flower Market."
+        },
+        {
+          "id": "ngma-bengaluru",
+          "name": "National Gallery of Modern Art (NGMA)",
+          "category": "Museums",
+          "description": "Heritage colonial mansion housing over 500 artworks by Raja Ravi Varma, Amrita Sher-Gil, and modern Indian masters.",
+          "duration_hours": 2.5,
+          "indicative_cost_inr": 50,
+          "best_time_of_day": "Afternoon",
+          "practical_tips": "Serene courtyard cafe set beneath magnificent banyan trees; closed on Mondays."
+        },
+        {
+          "id": "commercial-street",
+          "name": "Commercial Street & Brigade Road Shopping",
+          "category": "Shopping",
+          "description": "Famous shopping precincts for silk sarees, trendy apparel, spices, leather shoes, and bookstore cafes.",
+          "duration_hours": 2.5,
+          "indicative_cost_inr": 0,
+          "best_time_of_day": "Evening",
+          "practical_tips": "Pedestrian friendly; check out Church Street for legendary secondhand bookshops."
+        },
+        {
+          "id": "bannerghatta-park",
+          "name": "Bannerghatta Biological Park & Safari",
+          "category": "Nature",
+          "description": "Expansive wildlife sanctuary featuring an enclosed bus safari to see tigers, lions, bears, and a circular butterfly dome.",
+          "duration_hours": 4.5,
+          "indicative_cost_inr": 400,
+          "best_time_of_day": "Morning",
+          "practical_tips": "Located 22 km south of city center; AC safari buses recommended."
+        }
+      ],
+      "meals": {
+        "breakfast": [
+          {"name": "Crispy Benne Masala Dosa & Filter Coffee at CTR / Vidyarthi Bhavan", "diet": "Vegetarian", "style": "Legendary Heritage South Indian"},
+          {"name": "Steamed Idli, Vada, & Coconut Chutney with Black Tea", "diet": "Vegan", "style": "Bangalore Darshini"},
+          {"name": "Eggs Benedict & Sourdough Toast in Indiranagar Cafe", "diet": "No Preference", "style": "Artisanal Brunch"}
+        ],
+        "lunch": [
+          {"name": "Traditional South Karnataka Oota on Banana Leaf", "diet": "Vegetarian", "style": "Traditional Oota Thali"},
+          {"name": "Bisi Bele Bath with Boondi, Pappad & Kosambari", "diet": "Vegan", "style": "Karnataka Comfort"},
+          {"name": "Donne Biryani with Mutton Sukka at Shivaji Military Hotel", "diet": "No Preference", "style": "Military Hotel Special"}
+        ],
+        "dinner": [
+          {"name": "Artisan Wood-fired Pizza & Craft Mocktails in Koramangala", "diet": "Vegetarian", "style": "Gourmet Bistro"},
+          {"name": "Spicy Mangalorean Vegetable Ghee Roast (plant oil) & Neer Dosa", "diet": "Vegan", "style": "Coastal Karnataka"},
+          {"name": "Craft Brewery Dining (Appetizers & Grills) in Indiranagar", "diet": "No Preference", "style": "Cosmopolitan Brewpub"}
+        ]
+      },
+      "transport_tips": "Namma Metro connects east-west and north-south corridors efficiently; app-based autos and cabs are ubiquitous.",
+      "notes": "Plan journeys outside peak office hours (9:00-11:00 AM and 5:30-8:30 PM) to avoid road traffic."
+    }
+  ]
+}
